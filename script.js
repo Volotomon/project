@@ -1,2 +1,2 @@
-console.log(n);
 let n = 5;
+console.log(n);
